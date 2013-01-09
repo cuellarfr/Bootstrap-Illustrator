@@ -1,7 +1,7 @@
 Bootstrap-Illustrator
 =====================
 
-Bootstrap goodies for Adobe Illustrator. Includes symbols libraries and a grid template.
+Bootstrap goodies for Adobe Illustrator, symbols libraries and a grid template.
 
 INSTALLATION
 ------------
